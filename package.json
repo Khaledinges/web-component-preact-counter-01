@@ -1,0 +1,18 @@
+{
+  "name": "@wcd/khaledinges.preact-l5hssppb-fork-l5hstq51",
+  "version": "0.0.0",
+  "description": "",
+  "license": "ISC",
+  "type": "module",
+  "homepage": "{{ homepage }}",
+  "dependencies": {
+    "preact-custom-element": "^4",
+    "htm": "^3"
+  },
+  "devDependencies": {
+    "lit-html": "^2"
+  },
+  "scripts": {
+    "serve": "npx wcd-cli@latest serve Wl8AVsaGvMSZvId6WkuQ --open"
+  }
+}
